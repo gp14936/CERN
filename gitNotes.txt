@@ -1,2 +1,7 @@
 How you make a repository
 
+To add a new file and commit it ...
+git add <filename>;
+git commit -m "Your message"
+
+git diff tells you the differences between the old file and the new file
