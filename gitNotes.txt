@@ -5,3 +5,7 @@ git add <filename>;
 git commit -m "Your message"
 
 git diff tells you the differences between the old file and the new file
+
+
+
+Need to always do a git add before commit
