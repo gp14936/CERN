@@ -4,8 +4,13 @@ To add a new file and commit it ...
 git add <filename>;
 git commit -m "Your message"
 
+
+//----------------------------
 git diff tells you the differences between the old file and the new file
 
-
+//---------------------
 
 Need to always do a git add before commit
+//-------------------
+git checkout
+This will checkout the code into your workspace
